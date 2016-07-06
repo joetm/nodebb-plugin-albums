@@ -1,0 +1,51 @@
+{
+  "name": "nodebb-plugin-albums",
+  "version": "0.0.1",
+  "description": "Add albums to NodeBB",
+  "main": "library.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/psychobunny/nodebb-plugin-quickstart.git"
+  },
+  "keywords": [
+    "nodebb",
+    "plugin",
+    "quickstart",
+    "shell"
+  ],
+  "author": {
+    "name": "JO",
+    "email": "na@example.com"
+  },
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/psychobunny/nodebb-plugin-quickstart/issues"
+  },
+  "nbbpm": {
+    "compatibility": "^0.6.0 || ^0.7.0 || ^0.8.0"
+  },
+  "gitHead": "d40d65362576a3534966721f358ddd15dc6a54f1",
+  "homepage": "https://github.com/psychobunny/nodebb-plugin-quickstart#readme",
+  "_id": "nodebb-plugin-albums@0.0.1",
+  "scripts": {},
+  "_shasum": "cc3b18367d8e8e763786498dca67566bac87f780",
+  "_from": "nodebb-plugin-albums@",
+  "_npmVersion": "2.11.3",
+  "_nodeVersion": "0.12.7",
+  "_npmUser": {
+    "name": "JO",
+    "email": "na@example.com"
+  },
+  "maintainers": [
+    {
+      "name": "JO",
+      "email": "na@example.com"
+    }
+  ],
+  "dist": {
+    "shasum": "cc3b18367d8e8e763786498dca67566bac87f780",
+    "tarball": "https://registry.npmjs.org/nodebb-plugin-quickstart/-/nodebb-plugin-quickstart-0.2.3.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/nodebb-plugin-quickstart/-/nodebb-plugin-quickstart-0.2.3.tgz"
+}
